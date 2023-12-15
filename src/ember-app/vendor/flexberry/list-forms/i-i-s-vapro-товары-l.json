@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-товары-e",
+  "editForm": "i-i-s-vapro-товары-e",
+  "external": false,
+  "caption": "Товары",
+  "name": "IISVaproТоварыL",
+  "className": "ТоварыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-товары",
+      "modelProjection": "ТоварыL"
+    }
+  ]
+}

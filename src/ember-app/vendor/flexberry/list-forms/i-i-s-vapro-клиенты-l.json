@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-клиенты-e",
+  "editForm": "i-i-s-vapro-клиенты-e",
+  "external": false,
+  "caption": "Клиенты",
+  "name": "IISVaproКлиентыL",
+  "className": "КлиентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-клиенты",
+      "modelProjection": "КлиентыL"
+    }
+  ]
+}

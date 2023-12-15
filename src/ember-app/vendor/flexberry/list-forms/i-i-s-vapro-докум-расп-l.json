@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-докум-расп-e",
+  "editForm": "i-i-s-vapro-докум-расп-e",
+  "external": false,
+  "caption": "Документ распределения по баржам",
+  "name": "IISVaproДокумРаспL",
+  "className": "ДокумРаспL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-докум-расп",
+      "modelProjection": "ДокумРаспL"
+    }
+  ]
+}

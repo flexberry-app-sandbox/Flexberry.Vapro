@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-список-контей-e",
+  "editForm": "i-i-s-vapro-список-контей-e",
+  "external": false,
+  "caption": "Список контейнеров",
+  "name": "IISVaproСписокКонтейL",
+  "className": "СписокКонтейL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-список-контей",
+      "modelProjection": "СписокКонтейL"
+    }
+  ]
+}

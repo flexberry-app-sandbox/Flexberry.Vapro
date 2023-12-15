@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-пункт-погрузки-e",
+  "editForm": "i-i-s-vapro-пункт-погрузки-e",
+  "external": false,
+  "caption": "Пункт погрузки",
+  "name": "IISVaproПунктПогрузкиL",
+  "className": "ПунктПогрузкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-пункт-погрузки",
+      "modelProjection": "ПунктПогрузкиL"
+    }
+  ]
+}

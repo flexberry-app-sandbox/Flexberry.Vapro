@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-сотрудники-e",
+  "editForm": "i-i-s-vapro-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISVaproСотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-организация-e",
+  "editForm": "i-i-s-vapro-организация-e",
+  "external": false,
+  "caption": "Организация",
+  "name": "IISVaproОрганизацияL",
+  "className": "ОрганизацияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-организация",
+      "modelProjection": "ОрганизацияL"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+docker-compose -p vapro-java up -d

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vapro-список-барж-e",
+  "editForm": "i-i-s-vapro-список-барж-e",
+  "external": false,
+  "caption": "Список барж",
+  "name": "IISVaproСписокБаржL",
+  "className": "СписокБаржL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vapro-список-барж",
+      "modelProjection": "СписокБаржL"
+    }
+  ]
+}
