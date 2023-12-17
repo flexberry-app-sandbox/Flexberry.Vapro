@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika123-докум-расп-e",
+  "editForm": "i-i-s-logistika123-докум-расп-e",
+  "external": false,
+  "caption": "Документ распределения по баржам",
+  "name": "IISLogistika123ДокумРаспL",
+  "className": "ДокумРаспL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-докум-расп",
+      "modelProjection": "ДокумРаспL"
+    }
+  ]
+}

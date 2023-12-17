@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistika123.Objects", "Objects/Logistika123.Objects.csproj", "47cd8b3a-49f9-492c-813e-1467cf956d00"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistika123.Tests", "Tests/Logistika123.Tests.csproj", "bbd6aaba-3385-4571-bca6-8eb11661391e"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistika123.ODataBackend", "ODataBackend/Logistika123.ODataBackend.csproj", "d573cdc0-2060-4f80-b573-fe1db51f091c"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistika123.IntegrationTests", "IntegrationTests/Logistika123.IntegrationTests.csproj", "d28c67db-af1d-47c0-8faa-e22e098e30a7"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		47cd8b3a-49f9-492c-813e-1467cf956d00.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		47cd8b3a-49f9-492c-813e-1467cf956d00.Debug|Any CPU.Build.0 = Debug|Any CPU
+		47cd8b3a-49f9-492c-813e-1467cf956d00.Release|Any CPU.ActiveCfg = Release|Any CPU
+		47cd8b3a-49f9-492c-813e-1467cf956d00.Release|Any CPU.Build.0 = Release|Any CPU
+		bbd6aaba-3385-4571-bca6-8eb11661391e.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		bbd6aaba-3385-4571-bca6-8eb11661391e.Debug|Any CPU.Build.0 = Debug|Any CPU
+		bbd6aaba-3385-4571-bca6-8eb11661391e.Release|Any CPU.ActiveCfg = Release|Any CPU
+		bbd6aaba-3385-4571-bca6-8eb11661391e.Release|Any CPU.Build.0 = Release|Any CPU
+		d573cdc0-2060-4f80-b573-fe1db51f091c.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		d573cdc0-2060-4f80-b573-fe1db51f091c.Debug|Any CPU.Build.0 = Debug|Any CPU
+		d573cdc0-2060-4f80-b573-fe1db51f091c.Release|Any CPU.ActiveCfg = Release|Any CPU
+		d573cdc0-2060-4f80-b573-fe1db51f091c.Release|Any CPU.Build.0 = Release|Any CPU
+		d28c67db-af1d-47c0-8faa-e22e098e30a7.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		d28c67db-af1d-47c0-8faa-e22e098e30a7.Debug|Any CPU.Build.0 = Debug|Any CPU
+		d28c67db-af1d-47c0-8faa-e22e098e30a7.Release|Any CPU.ActiveCfg = Release|Any CPU
+		d28c67db-af1d-47c0-8faa-e22e098e30a7.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

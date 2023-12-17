@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Клиенты",
+  "name": "IISLogistika123КлиентыE",
+  "className": "КлиентыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-клиенты",
+      "modelProjection": "КлиентыE"
+    }
+  ]
+}

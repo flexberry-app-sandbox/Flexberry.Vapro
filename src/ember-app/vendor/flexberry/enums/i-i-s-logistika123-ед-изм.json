@@ -1,0 +1,10 @@
+﻿{
+  "nameSpace": "IIS.Logistika123",
+  "className": "ЕдИзм",
+  "enumObjects": {
+    "Тонн": "Тонн",
+    "Кг": "Кг",
+    "Шт": "Шт",
+    "Л": "Л"
+  }
+}

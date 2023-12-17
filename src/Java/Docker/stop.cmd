@@ -1,1 +1,1 @@
-docker-compose -p vapro-java down
+docker-compose -p logistika123-java down

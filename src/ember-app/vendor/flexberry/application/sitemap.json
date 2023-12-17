@@ -15,7 +15,7 @@
           "title": "Номенклатура",
           "children": [
             {
-              "link": "i-i-s-vapro-товары-l",
+              "link": "i-i-s-logistika123-товары-l",
               "menuName": null,
               "caption": "Товары",
               "title": "Товары",
@@ -30,42 +30,42 @@
           "title": "Данные об организации",
           "children": [
             {
-              "link": "i-i-s-vapro-организация-l",
+              "link": "i-i-s-logistika123-организация-l",
               "menuName": null,
               "caption": "Организация",
               "title": "Организация",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-клиенты-l",
+              "link": "i-i-s-logistika123-клиенты-l",
               "menuName": null,
               "caption": "Клиенты",
               "title": "Клиенты",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-сотрудники-l",
+              "link": "i-i-s-logistika123-сотрудники-l",
               "menuName": null,
               "caption": "Сотрудники",
               "title": "Сотрудники",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-список-барж-l",
+              "link": "i-i-s-logistika123-список-барж-l",
               "menuName": null,
               "caption": "Список барж",
               "title": "Список барж",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-список-контей-l",
+              "link": "i-i-s-logistika123-список-контей-l",
               "menuName": null,
               "caption": "Список контейнеров",
               "title": "Список контей",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-пункт-погрузки-l",
+              "link": "i-i-s-logistika123-пункт-погрузки-l",
               "menuName": null,
               "caption": "Пункт погрузки",
               "title": "Пункт погрузки",
@@ -80,21 +80,21 @@
           "title": "Документация",
           "children": [
             {
-              "link": "i-i-s-vapro-докум-поставки-l",
+              "link": "i-i-s-logistika123-докум-поставки-l",
               "menuName": null,
               "caption": "Документ поставки",
               "title": "Докум поставки",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-докум-расп-l",
+              "link": "i-i-s-logistika123-докум-расп-l",
               "menuName": null,
               "caption": "Документ распределения по баржам",
               "title": "Докум расп",
               "children": null
             },
             {
-              "link": "i-i-s-vapro-докум-рез-пост-l",
+              "link": "i-i-s-logistika123-докум-рез-пост-l",
               "menuName": null,
               "caption": "Документ результатов поставки",
               "title": "Докум рез пост",

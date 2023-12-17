@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika123-товары-e",
+  "editForm": "i-i-s-logistika123-товары-e",
+  "external": false,
+  "caption": "Товары",
+  "name": "IISLogistika123ТоварыL",
+  "className": "ТоварыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-товары",
+      "modelProjection": "ТоварыL"
+    }
+  ]
+}

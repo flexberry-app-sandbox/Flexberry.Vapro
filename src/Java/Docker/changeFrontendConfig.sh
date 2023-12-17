@@ -4,7 +4,7 @@ if [ -f "./config/environment.js" ]
 then
 	back="if (environment === 'docker') {
 		// For  backendUrl setting
-		backendUrl = 'http://localhost/VaproService';
+		backendUrl = 'http://localhost/Logistika123Service';
 	}"
 
 	lock="lock: {

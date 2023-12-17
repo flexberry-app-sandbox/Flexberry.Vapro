@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika123-докум-рез-пост-e",
+  "editForm": "i-i-s-logistika123-докум-рез-пост-e",
+  "external": false,
+  "caption": "Документ результатов поставки",
+  "name": "IISLogistika123ДокумРезПостL",
+  "className": "ДокумРезПостL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-докум-рез-пост",
+      "modelProjection": "ДокумРезПостL"
+    }
+  ]
+}

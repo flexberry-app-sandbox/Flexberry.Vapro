@@ -1,0 +1,75 @@
+﻿{
+  "name": "IISLogistika123ПунктПогрузки",
+  "modelName": "i-i-s-logistika123-пункт-погрузки",
+  "className": "ПунктПогрузки",
+  "nameSpace": "IIS.Logistika123",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "адрес",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "наимПункта",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ПунктПогрузкиE",
+      "modelName": "i-i-s-logistika123-пункт-погрузки",
+      "attrs": [
+        {
+          "name": "адрес",
+          "caption": "Адрес пункта погрузки",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "наимПункта",
+          "caption": "Наименование пункта",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ПунктПогрузкиL",
+      "modelName": "i-i-s-logistika123-пункт-погрузки",
+      "attrs": [
+        {
+          "name": "адрес",
+          "caption": "Адрес погрузки",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "наимПункта",
+          "caption": "Наименование пункта",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

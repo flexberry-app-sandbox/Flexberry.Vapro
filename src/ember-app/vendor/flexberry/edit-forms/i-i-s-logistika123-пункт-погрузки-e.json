@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Пункт погрузки",
+  "name": "IISLogistika123ПунктПогрузкиE",
+  "className": "ПунктПогрузкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-пункт-погрузки",
+      "modelProjection": "ПунктПогрузкиE"
+    }
+  ]
+}

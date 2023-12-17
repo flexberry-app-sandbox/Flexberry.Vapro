@@ -1,1 +1,1 @@
-docker-compose -p vapro-java up -d
+docker-compose -p logistika123-java up -d

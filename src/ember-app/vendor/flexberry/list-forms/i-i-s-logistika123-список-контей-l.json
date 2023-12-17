@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika123-список-контей-e",
+  "editForm": "i-i-s-logistika123-список-контей-e",
+  "external": false,
+  "caption": "Список контейнеров",
+  "name": "IISLogistika123СписокКонтейL",
+  "className": "СписокКонтейL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-список-контей",
+      "modelProjection": "СписокКонтейL"
+    }
+  ]
+}

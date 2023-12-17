@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika123-сотрудники-e",
+  "editForm": "i-i-s-logistika123-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISLogistika123СотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika123-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}
