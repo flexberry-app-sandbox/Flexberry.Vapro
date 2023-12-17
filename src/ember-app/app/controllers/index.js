@@ -26,7 +26,7 @@ export default Controller.extend({
               link: 'i-i-s-vapro-товары-l',
               caption: i18n.t('forms.application.sitemap.логистика.номенклатура.i-i-s-vapro-товары-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.номенклатура.i-i-s-vapro-товары-l.title'),
-              icon: 'folder',
+              icon: 'tasks',
               children: null
             }]
           }, {
@@ -43,13 +43,13 @@ export default Controller.extend({
               link: 'i-i-s-vapro-клиенты-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-vapro-клиенты-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-vapro-клиенты-l.title'),
-              icon: 'briefcase',
+              icon: 'suitcase',
               children: null
             }, {
               link: 'i-i-s-vapro-сотрудники-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-vapro-сотрудники-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-vapro-сотрудники-l.title'),
-              icon: 'tags',
+              icon: 'building',
               children: null
             }, {
               link: 'i-i-s-vapro-список-барж-l',
@@ -61,7 +61,7 @@ export default Controller.extend({
               link: 'i-i-s-vapro-список-контей-l',
               caption: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-vapro-список-контей-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.данные-об-организации.i-i-s-vapro-список-контей-l.title'),
-              icon: 'folder',
+              icon: 'book',
               children: null
             }, {
               link: 'i-i-s-vapro-пункт-погрузки-l',
@@ -78,19 +78,19 @@ export default Controller.extend({
               link: 'i-i-s-vapro-докум-поставки-l',
               caption: i18n.t('forms.application.sitemap.логистика.документация.i-i-s-vapro-докум-поставки-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.документация.i-i-s-vapro-докум-поставки-l.title'),
-              icon: 'tasks',
+              icon: 'briefcase',
               children: null
             }, {
               link: 'i-i-s-vapro-докум-расп-l',
               caption: i18n.t('forms.application.sitemap.логистика.документация.i-i-s-vapro-докум-расп-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.документация.i-i-s-vapro-докум-расп-l.title'),
-              icon: 'building',
+              icon: 'edit',
               children: null
             }, {
               link: 'i-i-s-vapro-докум-рез-пост-l',
               caption: i18n.t('forms.application.sitemap.логистика.документация.i-i-s-vapro-докум-рез-пост-l.caption'),
               title: i18n.t('forms.application.sitemap.логистика.документация.i-i-s-vapro-докум-рез-пост-l.title'),
-              icon: 'chart bar',
+              icon: 'tasks',
               children: null
             }]
           }]

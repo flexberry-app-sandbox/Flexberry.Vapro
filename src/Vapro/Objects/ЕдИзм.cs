@@ -35,17 +35,17 @@ namespace IIS.Vapro
         [Caption("Тонн")]
         Тонн,
         
-        // *** Start programmer edit section *** (ЕдИзм.Шт CustomAttributes)
-
-        // *** End programmer edit section *** (ЕдИзм.Шт CustomAttributes)
-        [Caption("Шт")]
-        Шт,
-        
         // *** Start programmer edit section *** (ЕдИзм.Кг CustomAttributes)
 
         // *** End programmer edit section *** (ЕдИзм.Кг CustomAttributes)
         [Caption("Кг")]
         Кг,
+        
+        // *** Start programmer edit section *** (ЕдИзм.Шт CustomAttributes)
+
+        // *** End programmer edit section *** (ЕдИзм.Шт CustomAttributes)
+        [Caption("Шт")]
+        Шт,
         
         // *** Start programmer edit section *** (ЕдИзм.Л CustomAttributes)
 
